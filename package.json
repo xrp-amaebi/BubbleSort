@@ -1,0 +1,19 @@
+{
+  "name": "bubble-sort-algorithm",
+  "version": "1.0.0",
+  "description": "Bubble sort, algorithm, js, node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrp-amaebi/bubbles.git"
+  },
+  "author": "Amaebi Amara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xrp-amaebi/bubbles/issues"
+  },
+  "homepage": "https://github.com/xrp-amaebi/bubbles#readme"
+}
